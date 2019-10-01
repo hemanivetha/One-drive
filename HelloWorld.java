@@ -1,9 +1,4 @@
-package com.hcl.java;
 
-/**
- * @author Coalesce
- *
- */
 public class HelloWorld {
 	
 	public static void main(String[] args) {
